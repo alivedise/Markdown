@@ -1,0 +1,9 @@
+li,h1,h2,h3,h4 {
+	clear: both;
+}
+img {
+	float: left;
+	display: inline-block;
+	width: 320px;
+	height: 240px;
+}
